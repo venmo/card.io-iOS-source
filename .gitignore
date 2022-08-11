@@ -15,3 +15,7 @@ icc.xcodeproj/project.xcworkspace/xcuserdata/*
 
 # Carthage
 Carthage/Build
+
+# Artifacts
+*.xcarchive
+*.xcframework
